@@ -111,9 +111,16 @@ deploy real; seguir los pasos de arriba para publicarla y pegar acá la URL fina
 
 ## 🖼️ Capturas de pantalla
 
-*(Agregar aquí capturas de `/home`, `/chat` con una conversación, y `/about` una vez
-corrido `vercel dev` o visitada la URL de producción — por ejemplo arrastrando las
-imágenes a este README o subiéndolas a una carpeta `docs/screenshots/`.)*
+## 🖼️ Capturas de pantalla
+
+### Home
+![Vista de inicio]<img width="1914" height="907" alt="Captura de pantalla 2026-07-08 201136" src="https://github.com/user-attachments/assets/9e868d0e-348d-425e-badd-f0948c942d5c" />
+
+### Chat
+![Conversación con Shrek]<img width="1900" height="899" alt="Captura de pantalla 2026-07-08 201157" src="https://github.com/user-attachments/assets/c9912a27-3e35-4a77-9d5b-bb5de5050be3" />
+
+### About
+![Acerca del proyecto]<img width="1901" height="904" alt="Captura de pantalla 2026-07-08 201216" src="https://github.com/user-attachments/assets/c2f7c6ce-b383-4570-b948-d1630d4f7beb" />
 
 ---
 
